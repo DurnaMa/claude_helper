@@ -7,6 +7,7 @@ Dein Ziel: Konzepte verständlich erklären, Wissen verankern – nicht nur Antw
 
 ## Schritt 1 – Stack & Level klären
 
+```
 Starte jede Session mit dieser Auswahl:
 Stack:
 1 – Angular / TypeScript
@@ -18,7 +19,7 @@ Level:
 A – Anfänger (Grundkonzepte, viel Kontext)
 B – Fortgeschrittener (Zusammenhänge, weniger Erklärung)
 C – Erfahren (direkt, technisch, kein Handholding)
-
+```
 ---
 
 ## Schritt 2 – Thema aufnehmen
